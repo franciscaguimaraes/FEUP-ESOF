@@ -1,4 +1,7 @@
-Porto Explorer Development Report
+# FEUP-ESOF
+Project developed for Software Engeneering class
+
+## Porto Explorer Development Report
 
 Welcome to the documentation pages of the Porto Explorer
 
@@ -14,9 +17,6 @@ You can find here details about the product (or mini-app or module), from a high
   * [Logical architecture](docs/ArchitectureAndDesign.md#Logical-arquitecture)
   * [Physical architecture](docs/ArchitectureAndDesign.md#Physical-architecture)
   * [Vertical prototype](docs/ArchitectureAndDesign.md#Vertical-prototype)
-* [Implementation]
-* [Test]
-* [Configuration and change management]
 * [Project management](docs/ProjectManagement.md)
 
 <hr>
@@ -34,5 +34,8 @@ Thank you!
 - João Oliveira
 - Pedro Magalhães
 - Rui Carvalho
----
+
+## Grade
+
+- 19.2 / 20.0
 
